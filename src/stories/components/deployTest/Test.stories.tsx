@@ -41,15 +41,3 @@ export default meta;
 type Story = StoryObj<typeof meta>;
 
 export const Test: Story = {};
-
-export const IsColumn_False: Story = {
-  args: {
-    isColumn: false,
-  },
-};
-
-export const IsColumn_True: Story = {
-  args: {
-    isColumn: true,
-  },
-};
