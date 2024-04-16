@@ -38,3 +38,6 @@ next-env.d.ts
 
 public/sw.js.map
 public/swe-worker-development.js
+
+
+build-storybook.log

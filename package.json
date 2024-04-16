@@ -8,8 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build",
-    "chromatic": "npx chromatic --project-token=chpt_27f3b4fb19773c2"
+    "build-storybook": "storybook build"
   },
   "dependencies": {
     "@babel/core": "^7.23.9",
